@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
-// import Chart from 'chart.js';
+import Chart from 'chart.js';
 
 import styled from 'styled-components/macro';
 import { theme } from '../styles';
