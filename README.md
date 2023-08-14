@@ -3,6 +3,8 @@
 
 A web app for visualizing personalized Spotify data
 
+## Demo
+![Alt text](spotify_project.gif)
 
 ## Run Locally
 
@@ -65,8 +67,7 @@ To run this project, you will need to add the following environment variables to
 `PORT`
 
 
-## Demo
-![Alt text](spotify_project-1.gif)
+
 
 
 
